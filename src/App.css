@@ -1,10 +1,10 @@
 html {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #D6CC99;
+  background-color: #F4DFB6;
 }
 
 .container {
-  background-color: #445D48;
+  background-color: #3D0C11;
   max-width: 700px;
   padding: 10px 20px 20px;
   border-radius: 15px;
@@ -13,20 +13,20 @@ html {
 
 h1 {
   text-align: center;
-  color: #001524;
+  color: white;
 }
 
 .container h2 {
   margin: 0 auto;
   text-align: center;
   padding: 10px 0 20px 0;
-  color: #001524;
+  color: black;
 }
 
 button {
   background: rgb(211, 216, 253);
-  color: rgb(10, 27, 184);
-  border: 2px solid rgb(10, 27, 184);
+  color: #3D0C11;
+  border: 2px solid #3D0C11;
   border-radius: 5px;
   font-size: 20px;
 }
@@ -39,6 +39,7 @@ section p {
   justify-content: space-between;
   padding: 0 20px;
   margin-top: 0px;
+  box-shadow: 4px 4px rgb(231, 197, 197);
 }
 /* 
 section title {
